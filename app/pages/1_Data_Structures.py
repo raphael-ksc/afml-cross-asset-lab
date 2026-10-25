@@ -7,7 +7,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "src"))
 
 st.set_page_config(page_title="Data Structures", page_icon="📊", layout="wide")
 st.title("📊 Data Structures")
-st.caption("AFML Chapter 2 · code: `afml_fx.data.bars`")
+st.caption("AFML Chapter 2 · code: `afml_lab.data.bars`")
 
 st.info("🚧 Under construction - see the roadmap in README.md.")
 

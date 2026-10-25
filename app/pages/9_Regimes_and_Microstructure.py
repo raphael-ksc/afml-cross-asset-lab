@@ -7,7 +7,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "src"))
 
 st.set_page_config(page_title="Regimes & Microstructure", page_icon="⚡", layout="wide")
 st.title("⚡ Regimes & Microstructure")
-st.caption("AFML Chapters 17-19 · code: `afml_fx.features.structural_breaks`")
+st.caption("AFML Chapters 17-19 · code: `afml_lab.features.microstructure`")
 
 st.info("🚧 Under construction - see the roadmap in README.md.")
 

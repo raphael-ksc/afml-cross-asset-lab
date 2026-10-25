@@ -1,7 +1,7 @@
 [project]
-name = "afml-fx"
+name = "afml-lab"
 version = "0.1.0"
-description = "Advances in Financial Machine Learning techniques applied to FX markets"
+description = "Advances in Financial Machine Learning techniques applied to crypto markets"
 requires-python = ">=3.10"
 
 [build-system]

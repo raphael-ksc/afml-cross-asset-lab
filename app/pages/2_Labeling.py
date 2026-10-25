@@ -5,9 +5,9 @@ import streamlit as st
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "src"))
 
-st.set_page_config(page_title="Labeling", page_icon="🏷️", layout="wide")
-st.title("🏷️ Labeling")
-st.caption("AFML Chapter 3 · code: `afml_fx.labeling.triple_barrier`")
+st.set_page_config(page_title="Labeling & Meta-labeling", page_icon="🏷️", layout="wide")
+st.title("🏷️ Labeling & Meta-labeling")
+st.caption("AFML Chapter 3 · code: `afml_lab.labeling.triple_barrier`")
 
 st.info("🚧 Under construction - see the roadmap in README.md.")
 

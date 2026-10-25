@@ -1,4 +1,4 @@
-"""Chapter 16 - Hierarchical Risk Parity, e.g. allocating across a G10 FX basket."""
+"""Chapter 16 - Hierarchical Risk Parity, e.g. allocating across a basket of crypto assets."""
 import pandas as pd
 
 

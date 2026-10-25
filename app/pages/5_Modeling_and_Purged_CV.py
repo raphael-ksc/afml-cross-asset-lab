@@ -5,9 +5,9 @@ import streamlit as st
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "src"))
 
-st.set_page_config(page_title="Backtest Lab", page_icon="🧪", layout="wide")
-st.title("🧪 Backtest Lab")
-st.caption("AFML Chapters 11-15 · code: `afml_fx.backtest.stats`")
+st.set_page_config(page_title="Modeling & Purged CV", page_icon="🌲", layout="wide")
+st.title("🌲 Modeling & Purged CV")
+st.caption("AFML Chapters 6-9 · code: `afml_lab.cv.purged_kfold`")
 
 st.info("🚧 Under construction - see the roadmap in README.md.")
 

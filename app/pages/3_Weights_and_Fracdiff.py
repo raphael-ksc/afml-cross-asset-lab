@@ -5,9 +5,9 @@ import streamlit as st
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "src"))
 
-st.set_page_config(page_title="HRP Allocation", page_icon="🧺", layout="wide")
-st.title("🧺 HRP Allocation")
-st.caption("AFML Chapter 16 · code: `afml_fx.portfolio.hrp`")
+st.set_page_config(page_title="Sample Weights & Fractional Differentiation", page_icon="🧬", layout="wide")
+st.title("🧬 Sample Weights & Fractional Differentiation")
+st.caption("AFML Chapters 4-5 · code: `afml_lab.features.fracdiff`")
 
 st.info("🚧 Under construction - see the roadmap in README.md.")
 

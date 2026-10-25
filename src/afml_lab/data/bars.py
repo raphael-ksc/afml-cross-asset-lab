@@ -1,7 +1,7 @@
 """Chapter 2 - Financial Data Structures.
 
-FX note: spot FX has no centralized volume, so use tick count as the activity
-proxy, or CME FX futures (6E, 6J) when real volume is needed.
+All functions take the canonical tick frame from ``afml_lab.data.schema``. Venues without
+centralized volume (spot FX) can fall back to tick count and ``schema.tick_rule`` for side.
 """
 import pandas as pd
 

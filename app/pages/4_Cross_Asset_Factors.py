@@ -5,9 +5,9 @@ import streamlit as st
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "src"))
 
-st.set_page_config(page_title="Bet Sizing", page_icon="💰", layout="wide")
-st.title("💰 Bet Sizing")
-st.caption("AFML Chapter 10 · code: `afml_fx.sizing.bet_size`")
+st.set_page_config(page_title="Cross-Asset Factors", page_icon="🌐", layout="wide")
+st.title("🌐 Cross-Asset Factors")
+st.caption("AFML Chapters 5, 8 · code: `afml_lab.factors`")
 
 st.info("🚧 Under construction - see the roadmap in README.md.")
 

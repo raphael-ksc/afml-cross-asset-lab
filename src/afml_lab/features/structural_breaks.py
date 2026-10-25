@@ -1,4 +1,4 @@
-"""Chapter 17 - Structural Breaks (FX regime shifts, e.g. central-bank intervention)."""
+"""Chapter 17 - Structural Breaks (crypto bubbles and crashes, e.g. the 2021 peak or the FTX collapse)."""
 import pandas as pd
 
 
